@@ -1,0 +1,39 @@
+#title {
+  display: flex;
+  justify-content: center;
+}
+
+#title img{
+  height: 150px;
+  width: auto;
+
+}
+
+/* HEADING FONTS */
+h2 {
+  font-size: 27px;
+  text-align: center;
+}
+
+/* CLICK BUTTON */
+#clickbutton {
+  display: flex;
+  justify-content: center;
+}
+
+#clickbutton img{
+  height: 500px;
+  width: auto;
+}
+
+/* BUTTONS */
+#buttonbox {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  margin: 40px;
+  padding: 30px;
+  font-size: 17px;
+}
